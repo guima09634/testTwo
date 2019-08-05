@@ -26,13 +26,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/main/java/com/Demo2.java">
+=======
+        <entry file="file://$PROJECT_DIR$/src/main/java/demo2/Demo2.java">
+>>>>>>> testStudy
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
               <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
               <folding>
+<<<<<<< HEAD
                 <element signature="e#78#79#0" expanded="true" />
                 <element signature="e#128#129#0" expanded="true" />
+=======
+                <element signature="e#80#81#0" expanded="true" />
+                <element signature="e#130#131#0" expanded="true" />
+>>>>>>> testStudy
               </folding>
             </state>
           </provider>
@@ -54,7 +63,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/Demo1.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/main/java/com/Demo2.java" />
+=======
+        <option value="$PROJECT_DIR$/src/main/java/demo2/Demo2.java" />
+>>>>>>> testStudy
       </list>
     </option>
   </component>
@@ -107,6 +120,7 @@
             </path>
             <path>
               <item name="daniel" type="b2602c69:ProjectViewProjectNode" />
+<<<<<<< HEAD
               <item name="testTwo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -115,6 +129,8 @@
             </path>
             <path>
               <item name="daniel" type="b2602c69:ProjectViewProjectNode" />
+=======
+>>>>>>> testStudy
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -127,9 +143,16 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564973653907" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564973391554" />
+>>>>>>> testStudy
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunDashboard">
@@ -154,12 +177,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564972981120</updated>
-      <workItem from="1564972984207" duration="249000" />
+      <workItem from="1564972984207" duration="376000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="361000" />
+=======
+    <option name="totallyTimeSpent" value="376000" />
+>>>>>>> testStudy
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -254,13 +281,22 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/com/Demo2.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/demo2/Demo2.java">
+>>>>>>> testStudy
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding>
+<<<<<<< HEAD
             <element signature="e#78#79#0" expanded="true" />
             <element signature="e#128#129#0" expanded="true" />
+=======
+            <element signature="e#80#81#0" expanded="true" />
+            <element signature="e#130#131#0" expanded="true" />
+>>>>>>> testStudy
           </folding>
         </state>
       </provider>
@@ -268,9 +304,80 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>testTwo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
