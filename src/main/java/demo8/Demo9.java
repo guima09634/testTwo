@@ -1,15 +1,14 @@
-package demo6;
+package demo8;
 
 /**
- * 测试demo
  *
- * @author daniel
+ *@date 2019/8/5
+ *@author danielHua
  */
-public class Demo7
+public class Demo9
 {
     public static void main(String[] args) {
         int a = 10;
-        int b = 20;
         System.out.println("hello world!");
     }
 }
